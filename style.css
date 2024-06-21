@@ -1,9 +1,9 @@
 body{
     width: 100%;
     height: 100%;
-    /* height: 100vh; */
+    height: 100vh;
     display: flex;
-    /* justify-content: center; */
+    justify-content: center;
     align-items: center;
     /* background:linear-gradient(45deg,#3b2aaa,#b7bdaf); */
 }
@@ -34,7 +34,7 @@ table{
     /* border-radius: 40px; */
     text-align: center;
     font-size: 25px;   
-    margin-top: 5px;
+    margin-top: 10px;
     margin-bottom: 10px;
     border: none;
     color: aliceblue;
